@@ -25,4 +25,4 @@ var gattimancanti = (totalefile*GattiInFila)- Gatti;
 // Expected output: 4
 var restodeigatti = (GattiInFila-gattimancanti);
 // Expected output: 2
-console.log('$(Gatti) gatti in fila $(GattiInFila) col resto di $(restodeigatti)');
+console.log('$(Gatti) gatti in fila $(GattiInFila) col resto di$(restodeigatti)');
